@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Under Palm Trees]]></title>
         <description><![CDATA[Under Palm Trees]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/under-palm-trees/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 Nov 2015 11:56:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 08 Nov 2015 12:30:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/under-palm-trees/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65a972de-22ac-4b30-88ed-07b60df19767.jpg">]]></description>
+            <link>https://thegrid.ai/under-palm-trees/05f842d4-2de9-4038-8188-9f54574c02c4/index.html</link>
+            <guid isPermaLink="false">05f842d4-2de9-4038-8188-9f54574c02c4</guid>
+            <pubDate>Sun, 08 Nov 2015 12:30:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f51fabfe-d93b-4b69-b3fb-d254d1b2ea70.jpg">]]></description>
-            <link>undefined90bdc49f-17cb-48e1-a142-60216f5850b1/index.html</link>
+            <link>https://thegrid.ai/under-palm-trees/90bdc49f-17cb-48e1-a142-60216f5850b1/index.html</link>
             <guid isPermaLink="false">90bdc49f-17cb-48e1-a142-60216f5850b1</guid>
             <pubDate>Sun, 08 Nov 2015 11:56:21 GMT</pubDate>
         </item>
