@@ -1,8 +1,7 @@
+name: Under Palm Trees
+favicon: null
 layout_spectrum: 0.2060932
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.375
-  brandStrength: 0.3125
-  rhythmicContrast: 0.75
   brandColors:
     - '#f6f6f6'
     - '#252525'
     - '#000000'
     - '#b4c5b7'
     - '#626613'
+  brandStrength: 0.3125
   lightness: 0.5
-typography_spectrum: 0.4713262
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Under Palm Trees
+  saturation: 0.375
+  rhythmicContrast: 0.75
+purpose: []
